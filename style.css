@@ -1,0 +1,105 @@
+nav {
+    background-color: #BE3145;
+}
+
+.text {
+    font-style: "Poppins";
+    font-size: 22px;
+}
+
+.mimic {
+    font-family: "Raleway", sans-serif;
+    font-size: 300%;
+}
+
+.web {
+    font-family: "Poppins", sans-serif;
+    color: #be3144;
+    font-size: 100%;
+}
+
+h2 {
+    color: #f0f0f0;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 200%;
+    padding-bottom: 0.1%
+}
+
+span {
+    color: #ff7f50;
+    font-family: "Poppins", sans-serif;
+}
+
+.hide {
+    color: transparent;
+}
+
+p:hover>span {
+    color: #FE8050;
+}
+
+a p {
+    color: #f0f0f0;
+    font-size: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.custom-card-footer {
+    background-color: #313841;
+    margin: 0;
+    color: #f0f0f0;
+    padding: 7% 0
+}
+
+.show {
+    color: #f0f0f0;
+    text-decoration: none;
+    background-color: #313841;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    padding: 1% 2% 1% 2%;
+}
+
+.show:hover {
+    background-color: #BE3145;
+}
+
+.contactdiv {
+    display: inline-block;
+    margin-right: 3%;
+    transition: all .3s ease-in-out;
+    vertical-align: top;
+}
+
+.contact {
+    color: #f0f0f0;
+    font-size: 100%;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+
+.contact:hover {
+    margin-top: 2%;
+    margin-bottom: -2%;
+}
+
+.contactdiv:hover {
+    margin-top: 2%;
+    margin-bottom: -2%;
+}
+
+.foot {
+    color: hsl(0, 0%, 94%);
+    font-size: 90%;
+    display: inline;
+    padding-left: 2%;
+    padding-right: 2%;
+}
